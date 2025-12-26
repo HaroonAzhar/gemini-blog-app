@@ -1,0 +1,5 @@
+{
+  "name": "NewsGenie",
+  "description": "A real-time AI-powered news aggregator that fetches the latest headlines using Google Search grounding, with a persistent local database for comments and caching.",
+  "requestFramePermissions": []
+}
